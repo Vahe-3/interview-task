@@ -1,0 +1,24 @@
+.cat-nav{
+    width: 120px;
+    margin: 20px;
+    background-color: rgba(224, 224, 224, 0.541);
+    border-radius: 10px;
+}
+
+.cat-nav > div > button{
+    color: grey;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: silver;
+    cursor: pointer;
+    
+}
+
+.cat-nav > div > button:hover{
+    background-color:rgba(61, 61, 61, 0.541);
+    color: white;
+}
+
